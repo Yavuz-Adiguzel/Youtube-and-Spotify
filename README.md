@@ -6,6 +6,7 @@ Bu proje, Spotify ve YouTube platformlarından alınan veriler üzerinde Keşifs
 
 
 ***Veri Kaynağı:*** Veriler, Spotify ve YouTube platformlarından çekilmiştir ve Spotify_Youtube.csv dosyasında saklanmaktadır.
+
 ***Veri Analizi:*** EDA analysis.ipynb dosyası, Python kullanarak veriler üzerinde Keşifsel Veri Analizi yapılması için hazırlanmıştır. Bu analiz ile veri içindeki önemli desenler ve eğilimler incelenmiştir.
 
 <h1 style:"10">Kullanılan Teknolojiler</h1>
